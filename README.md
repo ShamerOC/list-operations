@@ -10,4 +10,4 @@ Program supports 9 different LinkedList operations:\
 **Union T1 T2** - Push List *T2* to the end of List *T1* and deletes *T2*\
 **DelFirst T1 T2** - Deletes first node of List *T1* and creates new List named *T2* containing this node\
 **DelLast T1 T2** - Deletes last node of List *T1* and creates new List named *T2* containing this node\
-Everything except *trains* and *reverse* is in *O(1)* complexity.
+Everything except *Trains* and *Display* is in *O(1)* complexity.
